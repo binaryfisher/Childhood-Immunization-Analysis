@@ -1,9 +1,10 @@
 <h1>Childhood Immunization Analysis</h1>
-##Project Overview:
+
+## Project Overview:
 
 In this project, I conducted an in-depth analysis on 2017 CDC data about childhood immunizations. The goal was to uncover key insights regarding immunization rates, vaccine effectiveness, and correlations between various factors.
 
-##Key Achievements:
+## Key Achievements:
 
 Education Level Analysis: Investigated the relationship between a mother's education level and the likelihood of her child being vaccinated. Results were presented as proportions for each education level.
 
@@ -15,6 +16,6 @@ Statistical Analysis: Utilized Pearson correlation to uncover the statistical si
 
 Tools & Technologies: Python, pandas, scipy.stats
 
-##Conclusion:
+## Conclusion:
 
 This project provided valuable insights into the factors that influence childhood vaccination. The data-driven results can aid healthcare policymakers in making informed decisions to improve immunization rates and overall public health.
